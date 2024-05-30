@@ -1,0 +1,1305 @@
+Title: gi|1586061144|gb|CP036485.1| Saccharomyces cerevisiae strain ySR128 chromosome VII, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 647605
+HSP end: 645914
+Length of seq: 1692
+----------------------
+Title: gi|1389182097|gb|CP029160.1| Saccharomyces cerevisiae strain SY14 chromosome I, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 9723457
+HSP end: 9721766
+Length of seq: 1692
+----------------------
+HSP count: 2
+HSP score: 1271.0
+HSP expect: 0.0
+HSP start: 3662607
+HSP end: 3660916
+Length of seq: 1695
+SNP 1 at pos 16: C -> T
+SNP 2 at pos 18: T -> G
+SNP 3 at pos 21: A -> T
+SNP 4 at pos 27: C -> T
+SNP 5 at pos 30: A -> G
+SNP 6 at pos 33: T -> C
+SNP 7 at pos 42: G -> A
+SNP 8 at pos 51: T -> C
+SNP 9 at pos 54: T -> C
+SNP 10 at pos 64: A -> G
+SNP 11 at pos 69: T -> C
+SNP 12 at pos 72: G -> T
+SNP 13 at pos 73: C -> T
+SNP 14 at pos 75: A -> G
+SNP 15 at pos 81: C -> T
+SNP 16 at pos 97: C -> T
+SNP 17 at pos 99: A -> G
+SNP 18 at pos 111: T -> C
+SNP 19 at pos 117: G -> A
+SNP 20 at pos 120: A -> T
+SNP 21 at pos 123: T -> A
+SNP 22 at pos 126: A -> T
+SNP 23 at pos 127: T -> A
+SNP 24 at pos 144: T -> C
+SNP 25 at pos 147: A -> C
+SNP 26 at pos 150: T -> C
+SNP 27 at pos 153: G -> A
+SNP 28 at pos 154: C -> T
+SNP 29 at pos 162: C -> T
+SNP 30 at pos 165: C -> T
+SNP 31 at pos 168: T -> C
+SNP 32 at pos 174: C -> T
+SNP 33 at pos 186: A -> T
+SNP 34 at pos 189: C -> T
+SNP 35 at pos 199: T -> A
+SNP 36 at pos 201: A -> G
+SNP 37 at pos 205: G -> T
+SNP 38 at pos 206: T -> G
+SNP 39 at pos 207: G -> T
+SNP 40 at pos 208: C -> A
+SNP 41 at pos 210: G -> C
+SNP 42 at pos 211: G -> A
+SNP 43 at pos 213: A -> C
+SNP 44 at pos 216: T -> C
+SNP 45 at pos 219: T -> C
+SNP 46 at pos 222: T -> C
+SNP 47 at pos 225: C -> T
+SNP 48 at pos 228: A -> C
+SNP 49 at pos 237: A -> G
+SNP 50 at pos 240: C -> T
+SNP 51 at pos 243: C -> T
+SNP 52 at pos 249: T -> C
+SNP 53 at pos 258: A -> C
+SNP 54 at pos 261: A -> T
+SNP 55 at pos 264: G -> T
+SNP 56 at pos 267: T -> C
+SNP 57 at pos 270: A -> T
+SNP 58 at pos 285: A -> T
+SNP 59 at pos 286: C -> T
+SNP 60 at pos 291: T -> C
+SNP 61 at pos 306: C -> A
+SNP 62 at pos 309: T -> C
+SNP 63 at pos 315: C -> T
+SNP 64 at pos 321: G -> A
+SNP 65 at pos 342: T -> C
+SNP 66 at pos 345: T -> C
+SNP 67 at pos 363: T -> C
+SNP 68 at pos 366: T -> C
+SNP 69 at pos 369: C -> T
+SNP 70 at pos 375: T -> C
+SNP 71 at pos 387: C -> T
+SNP 72 at pos 393: T -> C
+SNP 73 at pos 396: C -> T
+SNP 74 at pos 399: A -> T
+SNP 75 at pos 405: T -> C
+SNP 76 at pos 408: A -> T
+SNP 77 at pos 409: T -> G
+SNP 78 at pos 411: A -> T
+SNP 79 at pos 417: T -> C
+SNP 80 at pos 420: A -> T
+SNP 81 at pos 432: A -> C
+SNP 82 at pos 438: T -> A
+SNP 83 at pos 439: T -> G
+SNP 84 at pos 441: A -> T
+SNP 85 at pos 447: C -> T
+SNP 86 at pos 450: T -> C
+SNP 87 at pos 453: G -> A
+SNP 88 at pos 455: T -> G
+SNP 89 at pos 456: G -> T
+SNP 90 at pos 462: G -> A
+SNP 91 at pos 465: A -> C
+SNP 92 at pos 468: A -> T
+SNP 93 at pos 470: T -> A
+SNP 94 at pos 471: T -> C
+SNP 95 at pos 472: A -> G
+SNP 96 at pos 474: A -> C
+SNP 97 at pos 477: A -> C
+SNP 98 at pos 483: G -> A
+SNP 99 at pos 486: T -> A
+SNP 100 at pos 487: A -> G
+SNP 101 at pos 488: G -> T
+SNP 102 at pos 495: G -> A
+SNP 103 at pos 498: G -> T
+SNP 104 at pos 507: G -> T
+SNP 105 at pos 510: T -> C
+SNP 106 at pos 516: A -> C
+SNP 107 at pos 519: T -> C
+SNP 108 at pos 520: C -> T
+SNP 109 at pos 522: A -> G
+SNP 110 at pos 525: G -> C
+SNP 111 at pos 528: T -> C
+SNP 112 at pos 531: T -> A
+SNP 113 at pos 533: G -> C
+SNP 114 at pos 535: T -> A
+SNP 115 at pos 536: C -> A
+SNP 116 at pos 537: T -> G
+SNP 117 at pos 538: C -> T
+SNP 118 at pos 540: T -> G
+SNP 119 at pos 544: G -> C
+SNP 120 at pos 548: A -> C
+SNP 121 at pos 549: A -> T
+SNP 122 at pos 552: G -> A
+SNP 123 at pos 558: T -> C
+SNP 124 at pos 559: C -> A
+SNP 125 at pos 561: A -> G
+SNP 126 at pos 564: A -> T
+SNP 127 at pos 567: A -> G
+SNP 128 at pos 570: A -> G
+SNP 129 at pos 573: T -> A
+SNP 130 at pos 580: C -> G
+SNP 131 at pos 582: C -> T
+SNP 132 at pos 586: G -> T
+SNP 133 at pos 588: T -> C
+SNP 134 at pos 600: T -> C
+SNP 135 at pos 606: T -> C
+SNP 136 at pos 610: G -> A
+SNP 137 at pos 612: A -> C
+SNP 138 at pos 613: C -> T
+SNP 139 at pos 615: A -> G
+SNP 140 at pos 617: A -> C
+SNP 141 at pos 618: A -> T
+SNP 142 at pos 622: A -> G
+SNP 143 at pos 625: C -> A
+SNP 144 at pos 628: A -> G
+SNP 145 at pos 631: T -> G
+SNP 146 at pos 633: G -> T
+SNP 147 at pos 636: A -> G
+SNP 148 at pos 642: T -> A
+SNP 149 at pos 648: A -> C
+SNP 150 at pos 649: C -> T
+SNP 151 at pos 651: A -> G
+SNP 152 at pos 652: T -> G
+SNP 153 at pos 654: G -> T
+SNP 154 at pos 660: C -> T
+SNP 155 at pos 664: G -> T
+SNP 156 at pos 665: C -> G
+SNP 157 at pos 669: T -> C
+SNP 158 at pos 672: G -> A
+SNP 159 at pos 676: A -> G
+SNP 160 at pos 681: T -> C
+SNP 161 at pos 684: A -> G
+SNP 162 at pos 685: A -> G
+SNP 163 at pos 686: A -> C
+SNP 164 at pos 687: A -> T
+SNP 165 at pos 693: C -> T
+SNP 166 at pos 694: C -> A
+SNP 167 at pos 702: A -> G
+SNP 168 at pos 708: T -> C
+SNP 169 at pos 714: G -> T
+SNP 170 at pos 729: T -> C
+SNP 171 at pos 732: G -> C
+SNP 172 at pos 735: A -> C
+SNP 173 at pos 738: T -> A
+SNP 174 at pos 739: C -> A
+SNP 175 at pos 741: A -> G
+SNP 176 at pos 747: A -> G
+SNP 177 at pos 750: G -> T
+SNP 178 at pos 753: A -> C
+SNP 179 at pos 756: A -> T
+SNP 180 at pos 759: T -> C
+SNP 181 at pos 765: G -> A
+SNP 182 at pos 768: T -> C
+SNP 183 at pos 771: C -> A
+SNP 184 at pos 777: T -> C
+SNP 185 at pos 780: C -> T
+SNP 186 at pos 789: T -> C
+SNP 187 at pos 792: G -> C
+SNP 188 at pos 795: A -> T
+SNP 189 at pos 798: G -> C
+SNP 190 at pos 799: C -> T
+SNP 191 at pos 807: A -> G
+SNP 192 at pos 809: A -> C
+SNP 193 at pos 813: C -> A
+SNP 194 at pos 816: G -> T
+SNP 195 at pos 819: A -> G
+SNP 196 at pos 820: C -> G
+SNP 197 at pos 822: G -> A
+SNP 198 at pos 831: G -> A
+SNP 199 at pos 834: G -> T
+SNP 200 at pos 840: T -> C
+SNP 201 at pos 846: C -> T
+SNP 202 at pos 847: C -> T
+SNP 203 at pos 849: T -> G
+SNP 204 at pos 852: G -> T
+SNP 205 at pos 865: C -> T
+SNP 206 at pos 867: C -> G
+SNP 207 at pos 876: T -> C
+SNP 208 at pos 882: A -> C
+SNP 209 at pos 888: G -> T
+SNP 210 at pos 891: T -> C
+SNP 211 at pos 894: C -> T
+SNP 212 at pos 900: C -> T
+SNP 213 at pos 909: T -> C
+SNP 214 at pos 912: A -> G
+SNP 215 at pos 915: T -> C
+SNP 216 at pos 916: G -> A
+SNP 217 at pos 918: A -> T
+SNP 218 at pos 921: G -> C
+SNP 219 at pos 924: G -> A
+SNP 220 at pos 927: T -> C
+SNP 221 at pos 930: T -> C
+SNP 222 at pos 936: T -> C
+SNP 223 at pos 937: T -> C
+SNP 224 at pos 940: G -> A
+SNP 225 at pos 942: A -> G
+SNP 226 at pos 946: G -> A
+SNP 227 at pos 948: G -> C
+SNP 228 at pos 950: A -> G
+SNP 229 at pos 951: G -> A
+SNP 230 at pos 957: T -> C
+SNP 231 at pos 960: G -> T
+SNP 232 at pos 965: T -> C
+SNP 233 at pos 966: C -> A
+SNP 234 at pos 972: A -> C
+SNP 235 at pos 984: T -> C
+SNP 236 at pos 986: C -> T
+SNP 237 at pos 987: A -> T
+SNP 238 at pos 988: C -> T
+SNP 239 at pos 990: A -> G
+SNP 240 at pos 996: C -> G
+SNP 241 at pos 999: A -> G
+SNP 242 at pos 1000: C -> T
+SNP 243 at pos 1004: A -> C
+SNP 244 at pos 1005: G -> C
+SNP 245 at pos 1006: G -> A
+SNP 246 at pos 1007: T -> C
+SNP 247 at pos 1012: C -> G
+SNP 248 at pos 1014: C -> T
+SNP 249 at pos 1017: T -> C
+SNP 250 at pos 1019: T -> C
+SNP 251 at pos 1020: T -> C
+SNP 252 at pos 1022: T -> C
+SNP 253 at pos 1029: C -> T
+SNP 254 at pos 1036: A -> C
+SNP 255 at pos 1037: G -> C
+SNP 256 at pos 1038: C -> A
+SNP 257 at pos 1042: C -> G
+SNP 258 at pos 1044: C -> T
+SNP 259 at pos 1047: A -> C
+SNP 260 at pos 1051: A -> G
+SNP 261 at pos 1053: C -> T
+SNP 262 at pos 1055: A -> G
+SNP 263 at pos 1062: C -> A
+SNP 264 at pos 1065: A -> T
+SNP 265 at pos 1069: A -> G
+SNP 266 at pos 1070: A -> C
+SNP 267 at pos 1071: A -> T
+SNP 268 at pos 1073: G -> C
+SNP 269 at pos 1077: A -> C
+SNP 270 at pos 1080: T -> A
+SNP 271 at pos 1084: A -> T
+SNP 272 at pos 1085: G -> C
+SNP 273 at pos 1086: C -> T
+SNP 274 at pos 1089: G -> C
+SNP 275 at pos 1092: C -> A
+SNP 276 at pos 1098: A -> G
+SNP 277 at pos 1104: G -> A
+SNP 278 at pos 1108: T -> A
+SNP 279 at pos 1117: G -> C
+SNP 280 at pos 1123: T -> G
+SNP 281 at pos 1124: C -> G
+SNP 282 at pos 1125: C -> T
+SNP 283 at pos 1128: A -> C
+SNP 284 at pos 1150: A -> G
+SNP 285 at pos 1156: T -> G
+SNP 286 at pos 1158: C -> T
+SNP 287 at pos 1161: G -> A
+SNP 288 at pos 1167: C -> T
+SNP 289 at pos 1170: G -> C
+SNP 290 at pos 1173: T -> C
+SNP 291 at pos 1176: C -> T
+SNP 292 at pos 1188: T -> C
+SNP 293 at pos 1194: T -> C
+SNP 294 at pos 1196: T -> C
+SNP 295 at pos 1197: C -> T
+SNP 296 at pos 1200: T -> C
+SNP 297 at pos 1203: T -> A
+SNP 298 at pos 1206: G -> C
+SNP 299 at pos 1207: G -> A
+SNP 300 at pos 1210: G -> A
+SNP 301 at pos 1224: G -> T
+SNP 302 at pos 1227: G -> A
+SNP 303 at pos 1230: G -> C
+SNP 304 at pos 1233: G -> A
+SNP 305 at pos 1239: G -> T
+SNP 306 at pos 1245: C -> T
+SNP 307 at pos 1251: T -> C
+SNP 308 at pos 1254: A -> C
+SNP 309 at pos 1257: A -> T
+SNP 310 at pos 1260: A -> T
+SNP 311 at pos 1263: A -> T
+SNP 312 at pos 1266: T -> C
+SNP 313 at pos 1269: A -> G
+SNP 314 at pos 1278: C -> T
+SNP 315 at pos 1281: T -> C
+SNP 316 at pos 1284: C -> T
+SNP 317 at pos 1290: G -> A
+SNP 318 at pos 1293: G -> A
+SNP 319 at pos 1299: C -> T
+SNP 320 at pos 1302: C -> A
+SNP 321 at pos 1305: C -> G
+SNP 322 at pos 1314: C -> T
+SNP 323 at pos 1326: A -> T
+SNP 324 at pos 1335: G -> T
+SNP 325 at pos 1344: G -> A
+SNP 326 at pos 1347: A -> G
+SNP 327 at pos 1350: C -> T
+SNP 328 at pos 1353: C -> T
+SNP 329 at pos 1383: G -> C
+SNP 330 at pos 1386: A -> G
+SNP 331 at pos 1392: G -> A
+SNP 332 at pos 1395: T -> C
+SNP 333 at pos 1396: C -> T
+SNP 334 at pos 1398: T -> G
+SNP 335 at pos 1401: T -> C
+SNP 336 at pos 1405: C -> T
+SNP 337 at pos 1407: T -> G
+SNP 338 at pos 1416: C -> T
+SNP 339 at pos 1419: C -> T
+SNP 340 at pos 1425: T -> C
+SNP 341 at pos 1428: C -> T
+SNP 342 at pos 1435: C -> T
+SNP 343 at pos 1443: T -> C
+SNP 344 at pos 1446: G -> T
+SNP 345 at pos 1449: T -> A
+SNP 346 at pos 1450: C -> A
+SNP 347 at pos 1452: C -> G
+SNP 348 at pos 1455: A -> T
+SNP 349 at pos 1456: G -> C
+SNP 350 at pos 1458: G -> A
+SNP 351 at pos 1470: C -> T
+SNP 352 at pos 1473: G -> A
+SNP 353 at pos 1474: A -> G
+SNP 354 at pos 1475: C -> G
+SNP 355 at pos 1476: C -> T
+SNP 356 at pos 1482: T -> C
+SNP 357 at pos 1488: C -> A
+SNP 358 at pos 1489: G -> T
+SNP 359 at pos 1492: C -> T
+SNP 360 at pos 1500: C -> A
+SNP 361 at pos 1501: G -> A
+SNP 362 at pos 1503: A -> T
+SNP 363 at pos 1506: T -> C
+SNP 364 at pos 1512: G -> T
+SNP 365 at pos 1515: A -> G
+SNP 366 at pos 1516: A -> G
+SNP 367 at pos 1518: G -> C
+SNP 368 at pos 1521: C -> T
+SNP 369 at pos 1526: A -> C
+SNP 370 at pos 1527: T -> C
+SNP 371 at pos 1532: A -> G
+SNP 372 at pos 1533: G -> A
+SNP 373 at pos 1534: A -> G
+SNP 374 at pos 1539: C -> T
+SNP 375 at pos 1542: T -> C
+SNP 376 at pos 1545: G -> C
+SNP 377 at pos 1551: G -> A
+SNP 378 at pos 1557: T -> C
+SNP 379 at pos 1558: G -> A
+SNP 380 at pos 1559: C -> A
+SNP 381 at pos 1560: C -> G
+SNP 382 at pos 1563: A -> G
+SNP 383 at pos 1567: A -> C
+SNP 384 at pos 1568: C -> A
+SNP 385 at pos 1569: T -> A
+SNP 386 at pos 1572: T -> -
+SNP 387 at pos 1573: T -> -
+SNP 388 at pos 1576: G -> -
+SNP 389 at pos 1579: - -> T
+SNP 390 at pos 1580: - -> C
+SNP 391 at pos 1581: - -> T
+SNP 392 at pos 1585: C -> A
+SNP 393 at pos 1587: G -> C
+SNP 394 at pos 1588: A -> G
+SNP 395 at pos 1590: A -> C
+SNP 396 at pos 1596: G -> T
+SNP 397 at pos 1597: G -> A
+SNP 398 at pos 1598: T -> A
+SNP 399 at pos 1606: C -> A
+SNP 400 at pos 1608: A -> G
+SNP 401 at pos 1615: C -> A
+SNP 402 at pos 1617: G -> C
+SNP 403 at pos 1619: A -> T
+SNP 404 at pos 1620: A -> G
+SNP 405 at pos 1621: C -> T
+SNP 406 at pos 1626: C -> A
+SNP 407 at pos 1632: T -> C
+SNP 408 at pos 1641: G -> A
+SNP 409 at pos 1642: G -> C
+SNP 410 at pos 1646: G -> A
+SNP 411 at pos 1647: T -> C
+SNP 412 at pos 1651: A -> G
+SNP 413 at pos 1653: C -> T
+SNP 414 at pos 1654: A -> G
+SNP 415 at pos 1662: G -> T
+SNP 416 at pos 1663: C -> A
+SNP 417 at pos 1665: A -> G
+SNP 418 at pos 1674: C -> T
+SNP 419 at pos 1680: A -> C
+SNP 420 at pos 1683: T -> C
+SNP 421 at pos 1686: C -> T
+SNP 422 at pos 1689: A -> G
+----------------------
+HSP count: 3
+HSP score: 1155.0
+HSP expect: 0.0
+HSP start: 3839246
+HSP end: 3840937
+Length of seq: 1696
+SNP 1 at pos 12: T -> A
+SNP 2 at pos 15: T -> C
+SNP 3 at pos 16: C -> T
+SNP 4 at pos 18: T -> A
+SNP 5 at pos 21: A -> T
+SNP 6 at pos 27: C -> T
+SNP 7 at pos 44: A -> G
+SNP 8 at pos 45: G -> C
+SNP 9 at pos 51: T -> C
+SNP 10 at pos 54: T -> C
+SNP 11 at pos 55: G -> T
+SNP 12 at pos 56: T -> G
+SNP 13 at pos 64: A -> G
+SNP 14 at pos 66: T -> C
+SNP 15 at pos 69: T -> C
+SNP 16 at pos 72: G -> T
+SNP 17 at pos 73: C -> T
+SNP 18 at pos 75: A -> G
+SNP 19 at pos 81: C -> T
+SNP 20 at pos 87: C -> T
+SNP 21 at pos 96: C -> T
+SNP 22 at pos 99: A -> T
+SNP 23 at pos 105: C -> T
+SNP 24 at pos 109: A -> C
+SNP 25 at pos 114: C -> T
+SNP 26 at pos 117: G -> A
+SNP 27 at pos 120: A -> C
+SNP 28 at pos 121: G -> A
+SNP 29 at pos 123: T -> A
+SNP 30 at pos 126: A -> T
+SNP 31 at pos 127: T -> A
+SNP 32 at pos 144: T -> C
+SNP 33 at pos 147: A -> T
+SNP 34 at pos 150: T -> C
+SNP 35 at pos 153: G -> A
+SNP 36 at pos 154: C -> T
+SNP 37 at pos 162: C -> T
+SNP 38 at pos 171: C -> T
+SNP 39 at pos 174: C -> T
+SNP 40 at pos 186: A -> T
+SNP 41 at pos 189: C -> T
+SNP 42 at pos 199: T -> A
+SNP 43 at pos 201: A -> G
+SNP 44 at pos 203: - -> C
+SNP 45 at pos 208: G -> -
+SNP 46 at pos 209: C -> A
+SNP 47 at pos 211: G -> T
+SNP 48 at pos 212: G -> A
+SNP 49 at pos 214: A -> T
+SNP 50 at pos 217: T -> C
+SNP 51 at pos 220: T -> C
+SNP 52 at pos 223: T -> C
+SNP 53 at pos 226: C -> T
+SNP 54 at pos 229: A -> T
+SNP 55 at pos 238: A -> G
+SNP 56 at pos 241: C -> T
+SNP 57 at pos 244: C -> T
+SNP 58 at pos 259: A -> C
+SNP 59 at pos 262: A -> T
+SNP 60 at pos 265: G -> T
+SNP 61 at pos 268: T -> C
+SNP 62 at pos 271: A -> T
+SNP 63 at pos 277: C -> T
+SNP 64 at pos 286: A -> T
+SNP 65 at pos 287: C -> T
+SNP 66 at pos 292: T -> C
+SNP 67 at pos 304: C -> T
+SNP 68 at pos 307: C -> A
+SNP 69 at pos 310: T -> C
+SNP 70 at pos 316: C -> T
+SNP 71 at pos 317: G -> T
+SNP 72 at pos 322: G -> A
+SNP 73 at pos 364: T -> C
+SNP 74 at pos 367: T -> C
+SNP 75 at pos 370: C -> T
+SNP 76 at pos 376: T -> C
+SNP 77 at pos 388: C -> T
+SNP 78 at pos 394: T -> C
+SNP 79 at pos 397: C -> T
+SNP 80 at pos 400: A -> T
+SNP 81 at pos 406: T -> C
+SNP 82 at pos 409: A -> T
+SNP 83 at pos 410: T -> G
+SNP 84 at pos 412: A -> C
+SNP 85 at pos 418: T -> C
+SNP 86 at pos 421: A -> T
+SNP 87 at pos 424: C -> T
+SNP 88 at pos 432: C -> A
+SNP 89 at pos 433: A -> C
+SNP 90 at pos 436: C -> T
+SNP 91 at pos 439: T -> A
+SNP 92 at pos 440: T -> G
+SNP 93 at pos 442: A -> T
+SNP 94 at pos 448: C -> T
+SNP 95 at pos 451: T -> C
+SNP 96 at pos 454: G -> A
+SNP 97 at pos 456: T -> G
+SNP 98 at pos 457: G -> T
+SNP 99 at pos 463: G -> A
+SNP 100 at pos 466: A -> C
+SNP 101 at pos 469: A -> C
+SNP 102 at pos 471: T -> A
+SNP 103 at pos 472: T -> C
+SNP 104 at pos 474: T -> C
+SNP 105 at pos 475: A -> T
+SNP 106 at pos 478: A -> C
+SNP 107 at pos 484: G -> A
+SNP 108 at pos 487: T -> A
+SNP 109 at pos 488: A -> G
+SNP 110 at pos 489: G -> T
+SNP 111 at pos 499: G -> T
+SNP 112 at pos 508: G -> T
+SNP 113 at pos 511: T -> C
+SNP 114 at pos 517: A -> T
+SNP 115 at pos 520: T -> C
+SNP 116 at pos 521: C -> T
+SNP 117 at pos 523: A -> G
+SNP 118 at pos 526: G -> C
+SNP 119 at pos 529: T -> C
+SNP 120 at pos 532: T -> A
+SNP 121 at pos 534: G -> C
+SNP 122 at pos 535: T -> C
+SNP 123 at pos 536: T -> A
+SNP 124 at pos 537: C -> A
+SNP 125 at pos 538: T -> G
+SNP 126 at pos 539: C -> T
+SNP 127 at pos 541: T -> A
+SNP 128 at pos 549: A -> C
+SNP 129 at pos 550: A -> T
+SNP 130 at pos 553: G -> A
+SNP 131 at pos 559: T -> C
+SNP 132 at pos 560: C -> T
+SNP 133 at pos 562: A -> G
+SNP 134 at pos 565: A -> T
+SNP 135 at pos 568: A -> G
+SNP 136 at pos 571: A -> G
+SNP 137 at pos 574: T -> A
+SNP 138 at pos 580: T -> C
+SNP 139 at pos 581: C -> G
+SNP 140 at pos 583: C -> T
+SNP 141 at pos 593: A -> G
+SNP 142 at pos 594: A -> C
+SNP 143 at pos 595: G -> T
+SNP 144 at pos 602: A -> G
+SNP 145 at pos 605: G -> A
+SNP 146 at pos 606: A -> G
+SNP 147 at pos 607: T -> A
+SNP 148 at pos 610: C -> T
+SNP 149 at pos 613: A -> T
+SNP 150 at pos 614: C -> G
+SNP 151 at pos 616: A -> T
+SNP 152 at pos 626: C -> A
+SNP 153 at pos 629: A -> G
+SNP 154 at pos 632: T -> G
+SNP 155 at pos 634: G -> T
+SNP 156 at pos 637: A -> G
+SNP 157 at pos 643: T -> A
+SNP 158 at pos 649: A -> C
+SNP 159 at pos 650: C -> T
+SNP 160 at pos 652: A -> G
+SNP 161 at pos 653: T -> G
+SNP 162 at pos 655: G -> T
+SNP 163 at pos 661: C -> T
+SNP 164 at pos 673: G -> A
+SNP 165 at pos 676: C -> T
+SNP 166 at pos 677: A -> G
+SNP 167 at pos 679: C -> T
+SNP 168 at pos 682: T -> C
+SNP 169 at pos 685: A -> G
+SNP 170 at pos 686: A -> G
+SNP 171 at pos 687: A -> C
+SNP 172 at pos 688: A -> T
+SNP 173 at pos 694: C -> T
+SNP 174 at pos 695: C -> A
+SNP 175 at pos 703: A -> G
+SNP 176 at pos 706: T -> G
+SNP 177 at pos 709: T -> C
+SNP 178 at pos 715: G -> T
+SNP 179 at pos 726: C -> T
+SNP 180 at pos 729: T -> A
+SNP 181 at pos 730: T -> C
+SNP 182 at pos 733: G -> C
+SNP 183 at pos 736: A -> C
+SNP 184 at pos 739: T -> A
+SNP 185 at pos 740: C -> A
+SNP 186 at pos 742: A -> G
+SNP 187 at pos 748: A -> G
+SNP 188 at pos 751: G -> T
+SNP 189 at pos 752: T -> G
+SNP 190 at pos 754: A -> T
+SNP 191 at pos 757: A -> T
+SNP 192 at pos 760: T -> C
+SNP 193 at pos 766: G -> A
+SNP 194 at pos 769: T -> C
+SNP 195 at pos 772: C -> A
+SNP 196 at pos 778: T -> C
+SNP 197 at pos 781: C -> T
+SNP 198 at pos 790: T -> C
+SNP 199 at pos 793: G -> T
+SNP 200 at pos 796: A -> T
+SNP 201 at pos 799: G -> C
+SNP 202 at pos 800: C -> T
+SNP 203 at pos 805: C -> T
+SNP 204 at pos 807: A -> G
+SNP 205 at pos 810: A -> C
+SNP 206 at pos 814: C -> A
+SNP 207 at pos 817: G -> T
+SNP 208 at pos 820: A -> G
+SNP 209 at pos 821: C -> A
+SNP 210 at pos 826: C -> T
+SNP 211 at pos 829: T -> A
+SNP 212 at pos 832: G -> A
+SNP 213 at pos 835: G -> T
+SNP 214 at pos 847: C -> A
+SNP 215 at pos 848: C -> T
+SNP 216 at pos 850: T -> G
+SNP 217 at pos 853: G -> T
+SNP 218 at pos 854: G -> A
+SNP 219 at pos 866: C -> T
+SNP 220 at pos 868: C -> G
+SNP 221 at pos 877: T -> C
+SNP 222 at pos 880: C -> T
+SNP 223 at pos 883: A -> C
+SNP 224 at pos 889: G -> T
+SNP 225 at pos 892: T -> C
+SNP 226 at pos 895: C -> T
+SNP 227 at pos 910: T -> C
+SNP 228 at pos 917: G -> A
+SNP 229 at pos 919: A -> C
+SNP 230 at pos 922: G -> T
+SNP 231 at pos 925: G -> A
+SNP 232 at pos 928: T -> C
+SNP 233 at pos 931: T -> C
+SNP 234 at pos 934: C -> T
+SNP 235 at pos 937: T -> C
+SNP 236 at pos 938: T -> C
+SNP 237 at pos 941: G -> A
+SNP 238 at pos 943: A -> C
+SNP 239 at pos 947: G -> A
+SNP 240 at pos 949: G -> C
+SNP 241 at pos 951: A -> G
+SNP 242 at pos 952: G -> A
+SNP 243 at pos 958: T -> C
+SNP 244 at pos 961: G -> C
+SNP 245 at pos 966: T -> C
+SNP 246 at pos 967: C -> A
+SNP 247 at pos 973: A -> T
+SNP 248 at pos 988: A -> C
+SNP 249 at pos 989: C -> T
+SNP 250 at pos 991: A -> G
+SNP 251 at pos 997: C -> A
+SNP 252 at pos 1000: A -> G
+SNP 253 at pos 1001: C -> T
+SNP 254 at pos 1004: A -> G
+SNP 255 at pos 1006: G -> T
+SNP 256 at pos 1008: T -> C
+SNP 257 at pos 1015: C -> A
+SNP 258 at pos 1018: T -> A
+SNP 259 at pos 1021: T -> C
+SNP 260 at pos 1024: T -> C
+SNP 261 at pos 1029: G -> A
+SNP 262 at pos 1036: G -> A
+SNP 263 at pos 1037: A -> C
+SNP 264 at pos 1038: G -> C
+SNP 265 at pos 1039: C -> T
+SNP 266 at pos 1043: C -> G
+SNP 267 at pos 1045: C -> T
+SNP 268 at pos 1048: A -> C
+SNP 269 at pos 1052: A -> G
+SNP 270 at pos 1054: C -> T
+SNP 271 at pos 1056: A -> G
+SNP 272 at pos 1058: A -> G
+SNP 273 at pos 1059: C -> T
+SNP 274 at pos 1063: C -> A
+SNP 275 at pos 1064: G -> A
+SNP 276 at pos 1065: C -> T
+SNP 277 at pos 1066: A -> T
+SNP 278 at pos 1068: A -> C
+SNP 279 at pos 1072: A -> -
+SNP 280 at pos 1073: G -> -
+SNP 281 at pos 1076: G -> C
+SNP 282 at pos 1079: - -> C
+SNP 283 at pos 1080: - -> T
+SNP 284 at pos 1083: T -> A
+SNP 285 at pos 1088: G -> A
+SNP 286 at pos 1092: G -> T
+SNP 287 at pos 1095: C -> A
+SNP 288 at pos 1096: T -> A
+SNP 289 at pos 1101: A -> G
+SNP 290 at pos 1107: G -> A
+SNP 291 at pos 1111: T -> A
+SNP 292 at pos 1120: G -> C
+SNP 293 at pos 1122: A -> T
+SNP 294 at pos 1126: T -> G
+SNP 295 at pos 1127: C -> G
+SNP 296 at pos 1128: C -> T
+SNP 297 at pos 1131: A -> C
+SNP 298 at pos 1138: C -> A
+SNP 299 at pos 1139: A -> G
+SNP 300 at pos 1150: G -> A
+SNP 301 at pos 1153: A -> G
+SNP 302 at pos 1155: C -> T
+SNP 303 at pos 1159: T -> G
+SNP 304 at pos 1161: C -> T
+SNP 305 at pos 1164: G -> A
+SNP 306 at pos 1170: C -> T
+SNP 307 at pos 1173: G -> T
+SNP 308 at pos 1176: T -> C
+SNP 309 at pos 1188: C -> T
+SNP 310 at pos 1191: T -> C
+SNP 311 at pos 1199: T -> -
+SNP 312 at pos 1206: T -> C
+SNP 313 at pos 1209: - -> C
+SNP 314 at pos 1210: G -> A
+SNP 315 at pos 1213: C -> T
+SNP 316 at pos 1215: C -> T
+SNP 317 at pos 1216: C -> A
+SNP 318 at pos 1221: G -> C
+SNP 319 at pos 1226: T -> G
+SNP 320 at pos 1227: C -> T
+SNP 321 at pos 1228: G -> C
+SNP 322 at pos 1231: G -> A
+SNP 323 at pos 1234: G -> C
+SNP 324 at pos 1243: G -> T
+SNP 325 at pos 1249: C -> T
+SNP 326 at pos 1255: T -> C
+SNP 327 at pos 1259: A -> G
+SNP 328 at pos 1260: C -> T
+SNP 329 at pos 1261: A -> C
+SNP 330 at pos 1264: A -> C
+SNP 331 at pos 1267: A -> T
+SNP 332 at pos 1268: A -> C
+SNP 333 at pos 1269: C -> T
+SNP 334 at pos 1270: T -> A
+SNP 335 at pos 1273: A -> G
+SNP 336 at pos 1280: G -> A
+SNP 337 at pos 1282: C -> T
+SNP 338 at pos 1283: T -> A
+SNP 339 at pos 1285: T -> G
+SNP 340 at pos 1294: G -> A
+SNP 341 at pos 1297: G -> A
+SNP 342 at pos 1298: A -> C
+SNP 343 at pos 1303: C -> T
+SNP 344 at pos 1306: C -> A
+SNP 345 at pos 1309: C -> G
+SNP 346 at pos 1318: C -> T
+SNP 347 at pos 1321: C -> T
+SNP 348 at pos 1330: A -> T
+SNP 349 at pos 1339: G -> T
+SNP 350 at pos 1343: T -> C
+SNP 351 at pos 1345: G -> A
+SNP 352 at pos 1348: G -> A
+SNP 353 at pos 1351: A -> G
+SNP 354 at pos 1354: C -> T
+SNP 355 at pos 1357: C -> T
+SNP 356 at pos 1369: C -> T
+SNP 357 at pos 1378: C -> T
+SNP 358 at pos 1387: G -> T
+SNP 359 at pos 1390: A -> G
+SNP 360 at pos 1396: G -> A
+SNP 361 at pos 1399: T -> C
+SNP 362 at pos 1400: C -> A
+SNP 363 at pos 1409: C -> T
+SNP 364 at pos 1411: T -> G
+SNP 365 at pos 1414: C -> T
+SNP 366 at pos 1418: G -> A
+SNP 367 at pos 1423: C -> T
+SNP 368 at pos 1429: T -> C
+SNP 369 at pos 1432: C -> T
+SNP 370 at pos 1438: G -> A
+SNP 371 at pos 1439: C -> T
+SNP 372 at pos 1447: T -> C
+SNP 373 at pos 1450: G -> T
+SNP 374 at pos 1456: C -> T
+SNP 375 at pos 1459: A -> C
+SNP 376 at pos 1462: G -> A
+SNP 377 at pos 1465: C -> T
+SNP 378 at pos 1468: C -> T
+SNP 379 at pos 1474: C -> T
+SNP 380 at pos 1477: G -> A
+SNP 381 at pos 1478: A -> G
+SNP 382 at pos 1479: C -> G
+SNP 383 at pos 1480: C -> T
+SNP 384 at pos 1486: T -> C
+SNP 385 at pos 1490: C -> T
+SNP 386 at pos 1492: C -> G
+SNP 387 at pos 1496: C -> T
+SNP 388 at pos 1498: G -> A
+SNP 389 at pos 1504: C -> A
+SNP 390 at pos 1505: G -> A
+SNP 391 at pos 1507: A -> T
+SNP 392 at pos 1516: G -> T
+SNP 393 at pos 1518: A -> G
+SNP 394 at pos 1522: G -> C
+SNP 395 at pos 1530: A -> C
+SNP 396 at pos 1531: T -> C
+SNP 397 at pos 1536: A -> G
+SNP 398 at pos 1537: G -> A
+SNP 399 at pos 1538: A -> G
+SNP 400 at pos 1540: C -> T
+SNP 401 at pos 1543: C -> T
+SNP 402 at pos 1546: T -> C
+SNP 403 at pos 1549: G -> T
+SNP 404 at pos 1555: G -> A
+SNP 405 at pos 1561: T -> A
+SNP 406 at pos 1562: G -> A
+SNP 407 at pos 1563: C -> A
+SNP 408 at pos 1564: C -> G
+SNP 409 at pos 1567: A -> G
+SNP 410 at pos 1570: C -> T
+SNP 411 at pos 1571: A -> C
+SNP 412 at pos 1572: C -> A
+SNP 413 at pos 1573: T -> A
+SNP 414 at pos 1576: T -> C
+SNP 415 at pos 1577: T -> A
+SNP 416 at pos 1578: C -> A
+SNP 417 at pos 1579: A -> G
+SNP 418 at pos 1582: G -> C
+SNP 419 at pos 1588: G -> A
+SNP 420 at pos 1589: A -> G
+SNP 421 at pos 1591: A -> C
+SNP 422 at pos 1597: G -> T
+SNP 423 at pos 1598: G -> A
+SNP 424 at pos 1599: T -> A
+SNP 425 at pos 1603: C -> T
+SNP 426 at pos 1607: C -> A
+SNP 427 at pos 1609: A -> G
+SNP 428 at pos 1616: C -> G
+SNP 429 at pos 1618: G -> T
+SNP 430 at pos 1620: A -> T
+SNP 431 at pos 1621: A -> G
+SNP 432 at pos 1622: C -> T
+SNP 433 at pos 1627: C -> A
+SNP 434 at pos 1642: G -> A
+SNP 435 at pos 1643: G -> C
+SNP 436 at pos 1647: G -> A
+SNP 437 at pos 1648: T -> C
+SNP 438 at pos 1652: A -> G
+SNP 439 at pos 1654: C -> T
+SNP 440 at pos 1663: G -> T
+SNP 441 at pos 1681: A -> T
+SNP 442 at pos 1684: T -> C
+SNP 443 at pos 1687: C -> T
+----------------------
+Title: gi|1386723603|gb|CP026294.1| Saccharomyces cerevisiae strain BY4742 chromosome VII, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 653226
+HSP end: 651535
+Length of seq: 1692
+----------------------
+Title: gi|1163001461|gb|CP020129.1| Saccharomyces cerevisiae strain S288c chromosome VII, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 653227
+HSP end: 651536
+Length of seq: 1692
+----------------------
+Title: gi|1115585739|gb|CP005198.2| Saccharomyces cerevisiae YJM248 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 631161
+HSP end: 629470
+Length of seq: 1692
+----------------------
+Title: gi|1048196234|gb|CP005236.2| Saccharomyces cerevisiae YJM1244 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 632356
+HSP end: 630665
+Length of seq: 1692
+----------------------
+Title: gi|1039024325|gb|CP008259.1| Saccharomyces cerevisiae strain HB_S_GIMBLETTROAD_14 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652952
+HSP end: 651261
+Length of seq: 1692
+----------------------
+Title: gi|1039024170|gb|CP008344.1| Saccharomyces cerevisiae strain WI_S_JASA_5 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652579
+HSP end: 650888
+Length of seq: 1692
+----------------------
+Title: gi|1039023924|gb|CP008514.1| Saccharomyces cerevisiae strain WI_C_MBSP_4 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652963
+HSP end: 651272
+Length of seq: 1692
+----------------------
+Title: gi|1039023700|gb|CP008157.1| Saccharomyces cerevisiae strain HPRMTsf_H7 chromosome VII, partial sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652781
+HSP end: 651090
+Length of seq: 1692
+----------------------
+Title: gi|1039023320|gb|CP007953.1| Saccharomyces cerevisiae strain T78 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652835
+HSP end: 651144
+Length of seq: 1692
+----------------------
+Title: gi|1034701515|gb|CP004105.2| Saccharomyces cerevisiae YJM1078 chromosome VII genomic sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 625409
+HSP end: 623718
+Length of seq: 1692
+----------------------
+Title: gi|874346696|gb|CP011553.1| Saccharomyces cerevisiae strain ySR127 chromosome VII, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 647556
+HSP end: 645865
+Length of seq: 1692
+----------------------
+Title: gi|2451843143|dbj|AP027350.1| Saccharomyces cerevisiae YKN1419 DNA, chromosome 7, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 653346
+HSP end: 651655
+Length of seq: 1692
+----------------------
+Title: gi|807071959|gb|CP011085.1| Saccharomyces cerevisiae strain UOA_M2 chromosome 7 sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 635028
+HSP end: 633337
+Length of seq: 1692
+----------------------
+Title: gi|766481901|gb|CP005279.1| Saccharomyces cerevisiae YJM1526 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 626301
+HSP end: 624610
+Length of seq: 1692
+----------------------
+Title: gi|766468607|gb|CP005229.1| Saccharomyces cerevisiae YJM1129 chromosome VII sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 625864
+HSP end: 624173
+Length of seq: 1692
+----------------------
+Title: gi|2313943854|dbj|AP026838.1| Saccharomyces cerevisiae YPH499 DNA, chromosome 7, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 653349
+HSP end: 651658
+Length of seq: 1692
+----------------------
+Title: gi|2313335105|gb|CP011674.1| Saccharomyces cerevisiae strain LAN210 chromosome VII
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 644189
+HSP end: 642498
+Length of seq: 1692
+----------------------
+Title: gi|2295402436|gb|CP072082.1| Saccharomyces cerevisiae strain L261col5 max chromosome VII
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652951
+HSP end: 651260
+Length of seq: 1692
+----------------------
+Title: gi|2288373116|gb|CP097138.1| Saccharomyces cerevisiae strain PY0001 chromosome VII
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 645284
+HSP end: 643593
+Length of seq: 1692
+----------------------
+Title: gi|2211412767|gb|CP093708.1| Saccharomyces cerevisiae strain L_1374 chromosome VII
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 644666
+HSP end: 642975
+Length of seq: 1692
+----------------------
+Title: gi|2209526115|gb|CP092960.1| Saccharomyces cerevisiae S288C chromosome XV
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 423730
+HSP end: 425421
+Length of seq: 1692
+----------------------
+Title: gi|2164491182|gb|CP089123.1| Saccharomyces cerevisiae strain S288C-SK1-cross isolate tetrad 8 spore a chromosome VII
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 643540
+HSP end: 641849
+Length of seq: 1692
+----------------------
+Title: gi|398365598|ref|NM_001181216.3| Saccharomyces cerevisiae S288C indolepyruvate decarboxylase 6 (PDC6), partial mRNA
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 1
+HSP end: 1692
+Length of seq: 1692
+----------------------
+Title: gi|1931130111|gb|CP059528.2| Saccharomyces cerevisiae strain LW2591Y chromosome 7
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652589
+HSP end: 650898
+Length of seq: 1692
+----------------------
+Title: gi|329138890|tpg|BK006941.2| TPA_inf: Saccharomyces cerevisiae S288C chromosome VII, complete sequence >gi|1001909446|gb|CP014459.1| Saccharomyces cerevisiae strain BCAnc chromosome 7, complete sequence
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 652981
+HSP end: 651290
+Length of seq: 1692
+----------------------
+Title: gi|1323126|emb|Z72872.1| S.cerevisiae chromosome VII reading frame ORF YGR087c
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 2364
+HSP end: 673
+Length of seq: 1692
+----------------------
+Title: gi|4115|emb|X55905.1| S.cerevisiae PDC6 gene for pyruvate decarboxylase
+HSP count: 1
+HSP score: 3384.0
+HSP expect: 0.0
+HSP start: 177
+HSP end: 1868
+Length of seq: 1692
+----------------------
+Title: gi|116616476|gb|EF059148.1| Synthetic construct Saccharomyces cerevisiae clone FLH143475.01X PDC6, complete sequence
+HSP count: 1
+HSP score: 3382.0
+HSP expect: 0.0
+HSP start: 1
+HSP end: 1691
+Length of seq: 1691
+----------------------
+Title: gi|1039024192|gb|CP008361.1| Saccharomyces cerevisiae strain WI_S_JASA_13 chromosome VII sequence
+HSP count: 1
+HSP score: 3380.0
+HSP expect: 0.0
+HSP start: 652965
+HSP end: 651274
+Length of seq: 1692
+SNP 1 at pos 375: T -> N
+----------------------
+Title: gi|1163001992|gb|CP020163.1| Saccharomyces cerevisiae strain DBVPG6765 chromosome VII, complete sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 638350
+HSP end: 636659
+Length of seq: 1692
+SNP 1 at pos 302: T -> C
+----------------------
+Title: gi|1115585746|gb|CP005238.2| Saccharomyces cerevisiae YJM1250 chromosome VII sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 632075
+HSP end: 630384
+Length of seq: 1692
+SNP 1 at pos 504: A -> G
+----------------------
+Title: gi|1048196259|gb|CP005256.2| Saccharomyces cerevisiae YJM1387 chromosome VII genomic sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 627643
+HSP end: 625952
+Length of seq: 1692
+SNP 1 at pos 375: T -> C
+----------------------
+Title: gi|1048196213|gb|CP005206.2| Saccharomyces cerevisiae YJM453 chromosome VII sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 637126
+HSP end: 635435
+Length of seq: 1692
+SNP 1 at pos 375: T -> C
+----------------------
+Title: gi|1039024417|gb|CP008327.1| Saccharomyces cerevisiae strain WI_S_OAKURA_4 chromosome VII sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 652979
+HSP end: 651288
+Length of seq: 1692
+SNP 1 at pos 375: T -> C
+----------------------
+Title: gi|1039024113|gb|CP008480.1| Saccharomyces cerevisiae strain HB_C_KOROKIPO_12 chromosome VII sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 652980
+HSP end: 651289
+Length of seq: 1692
+SNP 1 at pos 504: A -> G
+----------------------
+Title: gi|1039023646|gb|CP008140.1| Saccharomyces cerevisiae strain MARARsf_A10 chromosome VII, partial sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 652739
+HSP end: 651048
+Length of seq: 1692
+SNP 1 at pos 1548: T -> C
+----------------------
+Title: gi|1039023590|gb|CP008123.1| Saccharomyces cerevisiae strain MTKSKsf_E2 chromosome VII, partial sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 652970
+HSP end: 651279
+Length of seq: 1692
+SNP 1 at pos 714: G -> A
+----------------------
+Title: gi|1039023458|gb|CP008038.1| Saccharomyces cerevisiae strain TNPLST-4-S-2 chromosome VII sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 652969
+HSP end: 651278
+Length of seq: 1692
+SNP 1 at pos 375: T -> C
+----------------------
+Title: gi|1039023186|gb|CP007936.1| Saccharomyces cerevisiae strain HCNTHsf_F8 chromosome VII sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 652562
+HSP end: 650871
+Length of seq: 1692
+SNP 1 at pos 714: G -> A
+----------------------
+Title: gi|1024299556|gb|CP005251.2| Saccharomyces cerevisiae YJM1356 chromosome VII genomic sequence
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 632342
+HSP end: 630651
+Length of seq: 1692
+SNP 1 at pos 1437: G -> C
+----------------------
+Title: gi|2211413674|gb|CP093820.1| Saccharomyces cerevisiae strain DBVPG6765 chromosome VII
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 638526
+HSP end: 636835
+Length of seq: 1692
+SNP 1 at pos 302: T -> C
+----------------------
+Title: gi|2211401258|gb|CP093628.1| Saccharomyces cerevisiae strain L_1528 chromosome VII
+HSP count: 1
+HSP score: 3379.0
+HSP expect: 0.0
+HSP start: 659039
+HSP end: 657348
+Length of seq: 1692
+SNP 1 at pos 1142: G -> A
+----------------------
+Title: gi|1095459764|gb|CP005247.2| Saccharomyces cerevisiae YJM1338 chromosome VII genomic sequence
+HSP count: 1
+HSP score: 3374.0
+HSP expect: 0.0
+HSP start: 636300
+HSP end: 634609
+Length of seq: 1692
+SNP 1 at pos 1548: T -> C
+SNP 2 at pos 1612: C -> T
+----------------------
+Title: gi|1095459756|gb|CP005227.2| Saccharomyces cerevisiae YJM996 chromosome VII sequence
+HSP count: 1
+HSP score: 3374.0
+HSP expect: 0.0
+HSP start: 631639
+HSP end: 629948
+Length of seq: 1692
+SNP 1 at pos 965: T -> C
+SNP 2 at pos 1289: A -> G
+----------------------
+Title: gi|1095459753|gb|CP005197.2| Saccharomyces cerevisiae YJM244 chromosome VII sequence
+HSP count: 1
+HSP score: 3374.0
+HSP expect: 0.0
+HSP start: 632022
+HSP end: 630331
+Length of seq: 1692
+SNP 1 at pos 1548: T -> C
+SNP 2 at pos 1612: C -> T
+----------------------
+Title: gi|2211412799|gb|CP093740.1| Saccharomyces cerevisiae strain BC187 chromosome VII
+HSP count: 1
+HSP score: 3374.0
+HSP expect: 0.0
+HSP start: 649923
+HSP end: 648232
+Length of seq: 1692
+SNP 1 at pos 1548: T -> C
+SNP 2 at pos 1612: C -> T
+----------------------
+Title: gi|1997629047|emb|HG994146.1| Saccharomyces cerevisiae PE-2 genome assembly, chromosome: VII
+HSP count: 1
+HSP score: 3374.0
+HSP expect: 0.0
+HSP start: 631231
+HSP end: 629540
+Length of seq: 1692
+SNP 1 at pos 1548: T -> C
+SNP 2 at pos 1612: C -> T
+----------------------
+Title: gi|1987747075|emb|LR999878.1| Saccharomyces cerevisiae PE-2 genome assembly, chromosome: VII
+HSP count: 1
+HSP score: 3374.0
+HSP expect: 0.0
+HSP start: 636351
+HSP end: 634660
+Length of seq: 1692
+SNP 1 at pos 1548: T -> C
+SNP 2 at pos 1612: C -> T
+----------------------
